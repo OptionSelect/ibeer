@@ -41,8 +41,7 @@ img{
 }
 #site-header{
     /*
-        TODO
-        - Flexbox property here
+        no need to flex
     */
 }
 #site-header div{
@@ -78,19 +77,12 @@ img{
     text-decoration: none;
     text-transform: uppercase;
     padding: 10px 20px;
-
-    /*
-        TODO:
-        - Flexbox - Create general spacing between nav links
-    */
 }
 #main-navigation #logo{
     margin-right: 400px;
 
     /*
-        TODO:
-        - Flexbox - The logo needs to take up more space
-        that the other links
+      no need to flex
     */
 }
 main{
@@ -180,11 +172,6 @@ article footer p{
   padding: 10px 0 0 0;
   border-top: 1px solid #ccc;
   text-transform: uppercase;
-    /*
-        TODO:
-        - Style the article footer
-        HINT: Look to the article header;
-    */
 }
 #site-footer{
   display: flex;
@@ -195,8 +182,4 @@ article footer p{
   background: #333;
   color: white;
   width: 100%;
-    /*
-        TODO:
-        - Style the site footer
-    */
 }
