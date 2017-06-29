@@ -153,11 +153,6 @@ article img{
   padding-bottom: 10%;
   width: 50%;
   height: auto;
-    /*
-        TODO:
-        - Float article images to the right
-        and match sizes and spacing to the mockup
-    */
 }
 article footer p{
   font-size: 0.8em;
